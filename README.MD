@@ -8,3 +8,5 @@ nothing
 333
 
 feature a
+
+just 4 test conflict
